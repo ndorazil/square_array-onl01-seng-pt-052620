@@ -1,5 +1,5 @@
 def square_array(array)
-  numbers = [1,2,3]
-  numbers.each do |numbers|
+  array = [1,2,3]
+  array.each do |array|
   end
 end

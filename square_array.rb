@@ -1,6 +1,5 @@
 def square_array(array)
   array = [1,2,3]
-  array.each do |number|
-    print number
+  array.each{|number| puts number + "/n"}
   end
 end
